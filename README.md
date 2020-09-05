@@ -1,1 +1,1 @@
-# CS102-Project-Term-201
+# This is a demo project for Github 
